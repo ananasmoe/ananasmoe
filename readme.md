@@ -9,5 +9,5 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/ad1hl"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ad1hl" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hloananas&show_icons=true&locale=en" alt="hloananas" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hloananas&show_icons=true&locale=en" alt="hloananas" /></p>
 
