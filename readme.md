@@ -11,3 +11,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=r3tr0ananas&show_icons=true&locale=en" alt="hloananas" /></p>
 
+***
+<p align="center"><a href="https://www.buymeacoffee.com/r3tr0banane" target="_blank" rel="noreferrer"><img align="center" width="300" src="https://github.com/r3tr0ananas/r3tr0ananas/assets/132799819/5a65a3cc-44c9-4032-8025-9e8f5d73cc7c"/></a></p>
+
