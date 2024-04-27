@@ -1,8 +1,30 @@
-<h1 align="center">Hi, I'm Ananas</h1>
+<div align="center">
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>   </p>
+# Hi, i'm Ananas
 
-***
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-<p align="center"><a href="https://discord.com/users/695116877042679942"><img src="https://discord-readme-badge.vercel.app/api?id=695116877042679942"></a></p>
+</div>
+
+<img align="right" src="./mashiro_shiina.png" width="48%"/>
+
+- [**Coming soon**](https://r3tr0ananas.pro)
+
+
+&emsp;
+
+<div align="center">
+
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=R3tr0Ananas&theme=dark" width="500px" alt="stats"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3tr0Ananas&layout=compact&theme=dark" width="360px" alt="top-langs"/>
+      </td>
+    </tr>
+  </table>
+</div>
