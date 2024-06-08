@@ -10,11 +10,10 @@
 <img align="right" src="./mashiro_shiina.png" width="48%"/>
 
 ```diff
-- C# Skills evaporating
 + Plan on learning Go 💨 and Rust 🦀
 ```
 
-- [**Coming soon**](https://r3tr0ananas.pro)
+- [**Coming soon**](https://ananas.moe)
 
 <div align="center">
 
