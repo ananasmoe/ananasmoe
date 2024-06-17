@@ -13,7 +13,8 @@
 + Plan on learning Go 💨 and Rust 🦀
 ```
 
-- [**Coming soon**](https://ananas.moe)
+- [**Website**](https://ananas.moe)
+- [**Important**](https://cdn.ananas.moe/live-reaction.gif)
 
 <div align="center">
 
