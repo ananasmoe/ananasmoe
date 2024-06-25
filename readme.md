@@ -14,7 +14,7 @@
 ```
 
 - [**Website**](https://ananas.moe)
-- [**Important**](https://cdn.ananas.moe/live-reaction.gif)
+- [**Important**](https://cdn.ananas.moe/roll.webm)
 
 <div align="center">
 
