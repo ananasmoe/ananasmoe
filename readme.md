@@ -10,7 +10,7 @@
 <img align="right" src="./mashiro_shiina.png" width="48%"/>
 
 ```diff
-+ Plan on learning Go 💨 and Rust 🦀
++ Plan on learning Go 💨
 ```
 
 - [**Website**](https://ananas.moe)
