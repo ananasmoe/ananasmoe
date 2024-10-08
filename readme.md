@@ -7,7 +7,7 @@
 
 </div>
 
-<img align="right" src="./konata.webp" width="48%"/>
+<img align="right" src="./konata.webp" width="40%"/>
 
 ```diff
 + Plan on learning Go 💨
