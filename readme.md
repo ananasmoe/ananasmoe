@@ -7,11 +7,13 @@
 
 </div>
 
-<img align="right" src="https://cdn.ananas.moe/konata.webp" width="40%"/>
+<div align="center">
 
-```diff
-+ Plan on learning Go 💨
-```
+## Plans:
+I want to learn music production, but I keep procrastinating. :/
+
+</div>
+
 
 - [**Website**](https://ananas.moe)
 - [**Important**](https://cdn.ananas.moe/roll.webm)
