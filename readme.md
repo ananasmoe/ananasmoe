@@ -16,7 +16,6 @@ I want to learn music production, but I keep procrastinating. :/
 
 
 - [**Website**](https://ananas.moe)
-- [**Important**](https://cdn.ananas.moe/roll.webm)
 
 <div align="center">
 
