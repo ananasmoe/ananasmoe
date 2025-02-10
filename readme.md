@@ -11,14 +11,6 @@
 
 </div>
 
-<div align="center">
-
-## Plans:
-I want to learn music production, but I keep procrastinating. :/
-
-</div>
-
-
 - [**Website**](https://ananas.moe)
 
 <div align="center">
